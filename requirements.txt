@@ -1,0 +1,11 @@
+mcp-sdk>=0.6.0
+pillow
+opencv-python-headless
+torch==2.3.0+cpu
+numpy
+pydantic
+elevenlabs-mcp
+pytest
+httpx
+python-dotenv
+anthropic
